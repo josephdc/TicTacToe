@@ -1,0 +1,24 @@
+.box {
+    width: 125px;
+    height: 125px;
+    vertical-align: top;
+    font-size: 75px;
+    display: inline-block;
+    background-color: red;
+}
+
+h1 {
+    font-size: 65px;
+    color: white;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.reset{
+  color: white;
+
+}
+
